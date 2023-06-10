@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sticky-note-React/static/css/main.adc909e1.css",
+    "main.js": "/Sticky-note-React/static/js/main.74926c10.js",
+    "static/media/plus-icon.png": "/Sticky-note-React/static/media/plus-icon.7c687546eed26a914fd7.png",
+    "static/media/delete-icon.png": "/Sticky-note-React/static/media/delete-icon.4cf85250644be08b0e98.png",
+    "index.html": "/Sticky-note-React/index.html",
+    "main.adc909e1.css.map": "/Sticky-note-React/static/css/main.adc909e1.css.map",
+    "main.74926c10.js.map": "/Sticky-note-React/static/js/main.74926c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc909e1.css",
+    "static/js/main.74926c10.js"
+  ]
+}
